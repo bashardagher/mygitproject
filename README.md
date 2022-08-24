@@ -1,0 +1,2 @@
+# mygitproject
+to learn git
